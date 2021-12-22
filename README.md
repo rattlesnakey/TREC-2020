@@ -1,3 +1,4 @@
+>[比赛网址](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2020)
 # Model
 
 > 我所用的模型是Sentence-BERT, [论文地址](https://arxiv.org/abs/1908.10084)
