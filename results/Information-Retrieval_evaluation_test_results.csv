@@ -1,0 +1,2 @@
+epoch,steps,cos_sim-NDCG@10
+-1,-1,0.8676415984548043
